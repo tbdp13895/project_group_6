@@ -1,3 +1,3 @@
 # project_group_6
 
-I love reame files!
+I love readme files!
